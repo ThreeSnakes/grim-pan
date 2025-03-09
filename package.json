@@ -1,0 +1,16 @@
+{
+  "name": "grim-pan",
+  "version": "1.0.0",
+  "description": "TS DesignPattern 학습을 위한 repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "author": "ThreeSnakes",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
